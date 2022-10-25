@@ -1,1 +1,1 @@
-# linked_list_project
+# Dairesel_Tek_Yonlu_Bagli_Liste_Proje
