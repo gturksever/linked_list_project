@@ -1,0 +1,4 @@
+Et_Doner 100 49.5
+Tavuk_Doner 100 24.5
+Mercimek_Corbasi 150 19.9
+Kofte 200 59.9
