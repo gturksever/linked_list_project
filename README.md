@@ -1,1 +1,1 @@
-# Dairesel Liste veri yapisi kullanilarak C dili ile oluşturulmuş Restoran menüsü uygulaması
+# Dairesel Liste veri yapisi kullanilarak C dili ile oluşturulmuş Lokanta menüsü uygulaması.
