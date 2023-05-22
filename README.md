@@ -1,1 +1,1 @@
-# Dairesel_Tek_Yonlu_Bagli_Liste_Proje
+# Dairesel Liste veri yapisi kullanilarak C dili ile oluşturulmuş Restoran menüsü uygulaması
